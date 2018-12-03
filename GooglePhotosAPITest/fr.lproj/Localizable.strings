@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  GooglePhotosAPITest
+
+  Created by Christman, Aurelien (BCG Platinion) on 29/11/2018.
+  Copyright © 2018 Christman, Aurelien. All rights reserved.
+*/
+
+"myAlbums" = "Mes albums";
+"share" = "Partager";
+"save" = "Enregistrer";
